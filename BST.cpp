@@ -1,4 +1,4 @@
-#include "Dictionary.h"
+#include "BST.h"
 
 Node::Node(int i, std::string s, int d ,Node* p, Node *r, Node *l)
 {
